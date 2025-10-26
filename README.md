@@ -1,6 +1,6 @@
-# safety-active-learning-qa-bert
-This repository provides script for training and implementation for SafetyBERT QA using Active Learning Approach in Safety domain
 # SafetyBERT QA: Active Learning for Workplace Safety
+This repository provides script for training and implementation for SafetyBERT QA using Active Learning Approach in Safety domain
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/adanish91/safety-qa-bert)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97-Datasets-yellow)](https://huggingface.co/datasets/adanish91/safety-qa-bert-dataset)
